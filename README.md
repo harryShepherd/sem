@@ -1,5 +1,3 @@
 Software Engineering Methods
 
-idk what else to add
-
-:)
+Sam Wilson-Perkins
