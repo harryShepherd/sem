@@ -8,4 +8,3 @@ This is the GitHub repo for Group 18's *Software Engineering Methods* project. T
 - Cameron Smith
 - Murdo Wallace
 - Sam Wilson-Perkins
-- 
