@@ -2,9 +2,6 @@
 
 ***
 
-This is the GitHub repo for Group 18's *Software Engineering Methods* project. The group consists of:
+Test repo for Software Engineering Methods.
 
-- Harry Shepherd
-- Cameron Smith
-- Murdo Wallace
-- Sam Wilson-Perkins
+_Harry Shepherd_
